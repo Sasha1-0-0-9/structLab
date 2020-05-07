@@ -1,0 +1,14 @@
+D:\1-ий курс\2-ий семестр\ОПтАМ\5-та лаба\StructLabStudent\struct_lab_student\bin\Debug\struct_lab_student.exe.config
+D:\1-ий курс\2-ий семестр\ОПтАМ\5-та лаба\StructLabStudent\struct_lab_student\bin\Debug\struct_lab_student.exe
+D:\1-ий курс\2-ий семестр\ОПтАМ\5-та лаба\StructLabStudent\struct_lab_student\bin\Debug\struct_lab_student.pdb
+D:\1-ий курс\2-ий семестр\ОПтАМ\5-та лаба\StructLabStudent\struct_lab_student\obj\Debug\struct_lab_student.exe
+D:\1-ий курс\2-ий семестр\ОПтАМ\5-та лаба\StructLabStudent\struct_lab_student\obj\Debug\struct_lab_student.pdb
+D:\1-ий курс\2-ий семестр\ОПтАМ\5-та лаба\StructLabStudent\struct_lab_student\obj\Debug\struct_lab_student.csprojAssemblyReference.cache
+D:\1-ий курс\2-ий семестр\ОПтАМ\5-та лаба\StructLabStudent\struct_lab_student\obj\Debug\struct_lab_student.csproj.CoreCompileInputs.cache
+D:\chnu\5-та лаба\StructLabStudent\struct_lab_student\bin\Debug\struct_lab_student.exe.config
+D:\chnu\5-та лаба\StructLabStudent\struct_lab_student\bin\Debug\struct_lab_student.exe
+D:\chnu\5-та лаба\StructLabStudent\struct_lab_student\bin\Debug\struct_lab_student.pdb
+D:\chnu\5-та лаба\StructLabStudent\struct_lab_student\obj\Debug\struct_lab_student.csprojAssemblyReference.cache
+D:\chnu\5-та лаба\StructLabStudent\struct_lab_student\obj\Debug\struct_lab_student.csproj.CoreCompileInputs.cache
+D:\chnu\5-та лаба\StructLabStudent\struct_lab_student\obj\Debug\struct_lab_student.exe
+D:\chnu\5-та лаба\StructLabStudent\struct_lab_student\obj\Debug\struct_lab_student.pdb
